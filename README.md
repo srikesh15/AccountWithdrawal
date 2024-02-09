@@ -1,4 +1,4 @@
-# Bank-withdrawal-program
+# Amount-withdrawal-program
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
